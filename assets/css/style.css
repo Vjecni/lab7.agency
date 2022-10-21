@@ -237,7 +237,7 @@ header {
     width: 80%;
 }
 .header-title .header-linear {
-    font-family: var(--font-Emerald);
+    font-family: 'lost-emerald';
 }
 .header-title .heading__title {
     line-height: 1.3;
