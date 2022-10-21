@@ -91,7 +91,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: var('lost-emerald');
+    font-family: 'lost-emerald';
 }
 h2 {
     font-size: var( --h2-size);
