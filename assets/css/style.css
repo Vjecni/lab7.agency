@@ -49,6 +49,14 @@
     font-family: 'gilory-light';
     src: url('../fonts/gilory-light.otf')
 }
+@font-face {
+    font-family: 'lost-emerald';
+    src: url('../fonts/lost-emerald.otf')
+}
+@font-face {
+    font-family: 'gilory-light';
+    src: url('../fonts/gilory-light.otf')
+}
 
 body {
     height: 100%;
@@ -83,7 +91,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: var(--font-Emerald);
+    font-family: var('lost-emerald');
 }
 h2 {
     font-size: var( --h2-size);
